@@ -1,0 +1,20 @@
+.navbar{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+#marginStyle {
+    margin-top: 2x;
+}
+
+
+
+.title {
+    color: #000;
+    background-color: white; /* Cor de fundo para cobrir a parte superior da borda */
+    padding: 0 10px; /* Espaçamento interno para o título */
+    position: absolute;
+    top: -10px; /* Posicione o título acima da borda */
+    left: 10px; /* Ajuste a posição horizontal do título */
+}
